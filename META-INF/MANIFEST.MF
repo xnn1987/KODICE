@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DemoBundleActivity
+Bundle-SymbolicName: DemoBundleActivity
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.aretha.slidemenu,
+ com.aretha.slidemenudemo,
+ com.aretha.slidemenudemo.activity,
+ com.aretha.slidemenudemo.fragment,
+ com.aretha.slidemenudemo.widget
